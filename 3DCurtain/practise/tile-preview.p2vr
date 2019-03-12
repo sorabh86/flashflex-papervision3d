@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig>
+  <panorama>
+    <input>
+      <patch/>
+      <type>auto</type>
+      <filename>tile-preview.jpg</filename>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+    </viewingparameter>
+    <userdata/>
+    <hotspots>
+      <hotspot>
+        <position/>
+        <next>
+          <pan>0</pan>
+          <tilt>0</tilt>
+          <fov>0</fov>
+        </next>
+        <polygon>
+          <vertex>
+            <pan>-39.359</pan>
+            <tilt>-5.0817</tilt>
+          </vertex>
+          <vertex>
+            <pan>-53.966</pan>
+            <tilt>-3.71538</tilt>
+          </vertex>
+          <vertex>
+            <pan>-54.0408</pan>
+            <tilt>-14.0365</tilt>
+          </vertex>
+          <vertex>
+            <pan>-39.4361</pan>
+            <tilt>-18.3875</tilt>
+          </vertex>
+        </polygon>
+        <type>poly</type>
+        <id>screentv</id>
+        <title>Change Screen</title>
+      </hotspot>
+    </hotspots>
+    <output>
+      <flash>
+        <html>
+          <enabled>1</enabled>
+          <filename>output/tile-preview.html</filename>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="externalinterface">false</value>
+            <value id="parseanchor">false</value>
+            <value id="showuserdata">true</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+            <value id="videofile"></value>
+          </values>
+        </html>
+        <facequality/>
+        <autorotate>
+          <enabled>0</enabled>
+          <speed>0.4</speed>
+          <delay>5</delay>
+          <returntohorizon>0</returntohorizon>
+          <afterloaded>0</afterloaded>
+          <onlyinfocus>0</onlyinfocus>
+          <nodedelay>0</nodedelay>
+        </autorotate>
+        <loading>
+          <text/>
+          <bar/>
+          <image/>
+        </loading>
+        <hotspottext>
+          <enabled>1</enabled>
+          <width>180</width>
+          <height>20</height>
+          <auto>1</auto>
+          <textcolor>#000000</textcolor>
+          <textwrap>1</textwrap>
+          <background>1</background>
+          <backgroundcolor>#ffffff</backgroundcolor>
+          <border>1</border>
+          <bordercolor>#000000</bordercolor>
+          <borderradius>1</borderradius>
+        </hotspottext>
+        <hotspotstyle>
+          <viewmode>showone</viewmode>
+          <backgroundcolor>#0000ff,64</backgroundcolor>
+          <bordercolor>#0000ff</bordercolor>
+        </hotspotstyle>
+        <cursor>
+          <ownonmovement>1</ownonmovement>
+          <ownondefault>1</ownondefault>
+        </cursor>
+        <lock>
+          <domainenabled>0</domainenabled>
+          <domainmessage>wrong domain</domainmessage>
+          <dateenabled>0</dateenabled>
+          <date>2014-02-13</date>
+          <datemessage>expired</datemessage>
+        </lock>
+        <transition>
+          <enabled>0</enabled>
+          <transitiontype>crossdissolve</transitiontype>
+          <transitioncolor>#000000</transitioncolor>
+          <transitiontime>1</transitiontime>
+          <zoominenabled>1</zoominenabled>
+          <zoomoutenabled>1</zoomoutenabled>
+          <zoomoutwait>1</zoomoutwait>
+          <zoomfov>5</zoomfov>
+          <zoomspeed>2</zoomspeed>
+        </transition>
+        <filename>output/tile-preview_out.swf</filename>
+        <quality>90</quality>
+        <subtiles>1</subtiles>
+        <externalimage>1</externalimage>
+        <cubefilename>images/$n_o.jpg</cubefilename>
+        <cubefacenaming>_5</cubefacenaming>
+        <windowwidth>640</windowwidth>
+        <windowheight>480</windowheight>
+        <scaling>stage</scaling>
+        <fovmode>vertical</fovmode>
+        <framerate>24</framerate>
+        <changestagequality>1</changestagequality>
+        <changesmoothing>1</changesmoothing>
+        <sensitivity>8</sensitivity>
+        <masssimulation>1</masssimulation>
+        <locked>0</locked>
+        <invertcontrol>0</invertcontrol>
+        <lockedwheel>0</lockedwheel>
+        <invertwheel>0</invertwheel>
+        <speedwheel>1</speedwheel>
+        <trapwheel>1</trapwheel>
+        <keyboardlocked>0</keyboardlocked>
+        <keyboardzoomlocked>0</keyboardzoomlocked>
+        <networkaccess>0</networkaccess>
+        <fullscreencontext>0</fullscreencontext>
+        <hideaboutbox>1</hideaboutbox>
+        <externalskin>1</externalskin>
+        <skinimagepath>images</skinimagepath>
+        <leveltileenabled>0</leveltileenabled>
+        <leveltilesize>512</leveltilesize>
+        <leveltilefilename>tiles/$n/c%c_l%r_%y_%x.jpg</leveltilefilename>
+        <leveltilegeneratefiles>1</leveltilegeneratefiles>
+        <leveltileoverlap>1</leveltileoverlap>
+        <levelmemraw>300</levelmemraw>
+        <levelmembmp>200</levelmembmp>
+        <levelswitchbias>0.4</levelswitchbias>
+        <levelqueueraw>20</levelqueueraw>
+        <levelqueuebmp>5</levelqueuebmp>
+        <tilesize>637</tilesize>
+        <previewresolution>4</previewresolution>
+        <preview>grayscale</preview>
+        <previeworder>defaultview</previeworder>
+        <previewcolor>#808080</previewcolor>
+        <previewquality>25</previewquality>
+        <skinfile>default_loading.ggsk</skinfile>
+      </flash>
+      <htmlcss>
+        <html>
+          <enabled>1</enabled>
+          <filename>output/tile-preview_1.html</filename>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="fullscreen">false</value>
+            <value id="gyro">false</value>
+            <value id="jsxml">false</value>
+            <value id="manifest">false</value>
+            <value id="maps">false</value>
+            <value id="parseanchor">false</value>
+            <value id="showuserdata">true</value>
+            <value id="swf"/>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+            <value id="touchicon"/>
+          </values>
+        </html>
+        <facequality/>
+        <autorotate>
+          <enabled>0</enabled>
+          <speed>0.4</speed>
+          <delay>5</delay>
+          <returntohorizon>0</returntohorizon>
+          <afterloaded>0</afterloaded>
+          <nodedelay>0</nodedelay>
+        </autorotate>
+        <hotspottext>
+          <enabled>1</enabled>
+          <width>180</width>
+          <height>20</height>
+          <auto>1</auto>
+          <textcolor>#000000</textcolor>
+          <textwrap>1</textwrap>
+          <background>1</background>
+          <backgroundcolor>#ffffff</backgroundcolor>
+          <border>1</border>
+          <bordercolor>#000000</bordercolor>
+          <borderradius>1</borderradius>
+        </hotspottext>
+        <hotspotstyle>
+          <viewmode>showone</viewmode>
+          <backgroundcolor>#0000ff,64</backgroundcolor>
+          <bordercolor>#0000ff</bordercolor>
+        </hotspotstyle>
+        <filename>html-output/tile-preview_out.xml</filename>
+        <tilesize>637</tilesize>
+        <quality>90</quality>
+        <progressivejpeg>1</progressivejpeg>
+        <cubefilename>images/$n_o.jpg</cubefilename>
+        <cubefacenaming>_5</cubefacenaming>
+        <windowwidth>640</windowwidth>
+        <windowheight>480</windowheight>
+        <fovmode>vertical</fovmode>
+        <sensitivity>8</sensitivity>
+        <masssimulation>1</masssimulation>
+        <locked>0</locked>
+        <invertcontrol>1</invertcontrol>
+        <dblclickfullscreen>0</dblclickfullscreen>
+        <lockedwheel>0</lockedwheel>
+        <invertwheel>0</invertwheel>
+        <speedwheel>1</speedwheel>
+        <keyboardlocked>0</keyboardlocked>
+        <hideaboutbox>1</hideaboutbox>
+        <skinSvgToPng>0</skinSvgToPng>
+        <skinimagepath>images</skinimagepath>
+        <preview>grayscale</preview>
+        <previewcolor>#808080</previewcolor>
+        <previewresolution>4</previewresolution>
+        <previewquality>25</previewquality>
+      </htmlcss>
+    </output>
+    <sounds>
+      <sound>
+        <position>
+          <pan>-89.5823</pan>
+          <tilt>-5.42049</tilt>
+        </position>
+        <videorect>
+          <rotx>-5</rotx>
+          <roty>-1</roty>
+          <rotz>0</rotz>
+          <fov>43.96</fov>
+          <stretch>100</stretch>
+          <dimx>1304</dimx>
+          <dimy>957</dimy>
+        </videorect>
+        <type>image</type>
+        <id>_element_0</id>
+        <filename>red-curtain.png</filename>
+        <mode>3</mode>
+        <pansize>10</pansize>
+        <tiltsize>10</tiltsize>
+        <fieldsize>90</fieldsize>
+        <ambientlevel>0</ambientlevel>
+        <level>1</level>
+        <loop>1</loop>
+        <external>1</external>
+        <copyfile>1</copyfile>
+        <clickmode>popout</clickmode>
+      </sound>
+    </sounds>
+  </panorama>
+</pano2vrconfig>

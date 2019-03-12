@@ -1,0 +1,70 @@
+﻿<projectDescription>
+	<id>1238637846607</id>
+	<name>tile-preview_out</name>
+	<asVersion>0</asVersion>
+	<boundTemplate>file:///C|/Users/sorabh/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+	<classTemplate>file:///C|/Users/sorabh/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+	<classPath>.</classPath>
+	<rootURI>E:\www\3DCurtain\practise\output</rootURI>
+	<flexSDK/>
+	<sources editable="false"/>
+	<libraries editable="false"/>
+	<externalLibraries editable="false"/>
+	<compileList editable="false">
+		<uri label="tile-preview_out.fla">file:///E|/www/3DCurtain/practise/output/tile-preview_out.fla</uri>
+	</compileList>
+	<defaultApp>file:///E|/www/3DCurtain/practise/output/tile-preview_out.fla</defaultApp>
+	<recentFiles editable="false">
+		<uri label="PanoPlayer.as">file:///E|/www/3DCurtain/practise/output/PanoPlayer.as</uri>
+		<uri label="GgLock.as">file:///E|/www/3DCurtain/practise/output/GgLock.as</uri>
+		<uri label="GgViewer.as">file:///E|/www/3DCurtain/practise/output/GgViewer.as</uri>
+		<uri label="PanoViewer.as">file:///E|/www/3DCurtain/practise/output/PanoViewer.as</uri>
+		<uri label="VideoPanoClass.as">file:///E|/www/3DCurtain/practise/output/VideoPanoClass.as</uri>
+		<uri label="SkinClass.as">file:///E|/www/3DCurtain/practise/output/SkinClass.as</uri>
+		<uri label="IFlexAsset.as">file:///E|/www/3DCurtain/practise/output/mx/core/IFlexAsset.as</uri>
+		<uri label="ByteArrayAsset.as">file:///E|/www/3DCurtain/practise/output/mx/core/ByteArrayAsset.as</uri>
+		<uri label="ImageRepository.as">file:///E|/www/3DCurtain/practise/output/ImageRepository.as</uri>
+		<uri label="GgSounds.as">file:///E|/www/3DCurtain/practise/output/GgSounds.as</uri>
+		<uri label="Hotspots.as">file:///E|/www/3DCurtain/practise/output/Hotspots.as</uri>
+		<uri label="Hotspot.as">file:///E|/www/3DCurtain/practise/output/Hotspot.as</uri>
+		<uri label="Panorama.as">file:///E|/www/3DCurtain/practise/output/Panorama.as</uri>
+		<uri label="PanoramaCube.as">file:///E|/www/3DCurtain/practise/output/PanoramaCube.as</uri>
+		<uri label="AutoMove.as">file:///E|/www/3DCurtain/practise/output/AutoMove.as</uri>
+		<uri label="PanoramaCylinder.as">file:///E|/www/3DCurtain/practise/output/PanoramaCylinder.as</uri>
+		<uri label="RenderTile.as">file:///E|/www/3DCurtain/practise/output/RenderTile.as</uri>
+		<uri label="RenderTile10.as">file:///E|/www/3DCurtain/practise/output/RenderTile10.as</uri>
+		<uri label="PanoramaFlat.as">file:///E|/www/3DCurtain/practise/output/PanoramaFlat.as</uri>
+		<uri label="FlexBitmap.as">file:///E|/www/3DCurtain/practise/output/mx/core/FlexBitmap.as</uri>
+		<uri label="ILayoutDirectionElement.as">file:///E|/www/3DCurtain/practise/output/mx/core/ILayoutDirectionElement.as</uri>
+		<uri label="IFlexDisplayObject.as">file:///E|/www/3DCurtain/practise/output/mx/core/IFlexDisplayObject.as</uri>
+		<uri label="BitmapAsset.as">file:///E|/www/3DCurtain/practise/output/mx/core/BitmapAsset.as</uri>
+		<uri label="PanoViewer_CursorImageClass.as">file:///E|/www/3DCurtain/practise/output/PanoViewer_CursorImageClass.as</uri>
+		<uri label="GgVector3d.as">file:///E|/www/3DCurtain/practise/output/GgVector3d.as</uri>
+		<uri label="PanoramaEquirect.as">file:///E|/www/3DCurtain/practise/output/PanoramaEquirect.as</uri>
+		<uri label="MouseWheelTrap.as">file:///E|/www/3DCurtain/practise/output/MouseWheelTrap.as</uri>
+		<uri label="GgTextField.as">file:///E|/www/3DCurtain/practise/output/GgTextField.as</uri>
+		<uri label="SkinObjectClass.as">file:///E|/www/3DCurtain/practise/output/SkinObjectClass.as</uri>
+		<uri label="ReposBitmapClass.as">file:///E|/www/3DCurtain/practise/output/ReposBitmapClass.as</uri>
+		<uri label="SkinModifierClass.as">file:///E|/www/3DCurtain/practise/output/SkinModifierClass.as</uri>
+		<uri label="ReposSwfClass.as">file:///E|/www/3DCurtain/practise/output/ReposSwfClass.as</uri>
+		<uri label="SkinActionClass.as">file:///E|/www/3DCurtain/practise/output/SkinActionClass.as</uri>
+		<uri label="GgSound.as">file:///E|/www/3DCurtain/practise/output/GgSound.as</uri>
+		<uri label="GgPanoVertex.as">file:///E|/www/3DCurtain/practise/output/GgPanoVertex.as</uri>
+		<uri label="UrlHotspotClass.as">file:///E|/www/3DCurtain/practise/output/UrlHotspotClass.as</uri>
+		<uri label="Matrix4d.as">file:///E|/www/3DCurtain/practise/output/Matrix4d.as</uri>
+		<uri label="ObjHotspotLocation.as">file:///E|/www/3DCurtain/practise/output/ObjHotspotLocation.as</uri>
+		<uri label="PanoViewLimits.as">file:///E|/www/3DCurtain/practise/output/PanoViewLimits.as</uri>
+		<uri label="ZoomLevelImages.as">file:///E|/www/3DCurtain/practise/output/ZoomLevelImages.as</uri>
+		<uri label="GgActivePanoramaElement.as">file:///E|/www/3DCurtain/practise/output/GgActivePanoramaElement.as</uri>
+		<uri label="GgRectangle.as">file:///E|/www/3DCurtain/practise/output/GgRectangle.as</uri>
+		<uri label="GgVector3dEqui.as">file:///E|/www/3DCurtain/practise/output/GgVector3dEqui.as</uri>
+		<uri label="GgVector3dCyl.as">file:///E|/www/3DCurtain/practise/output/GgVector3dCyl.as</uri>
+		<uri label="NameUtil.as">file:///E|/www/3DCurtain/practise/output/mx/utils/NameUtil.as</uri>
+		<uri label="IAssetLayoutFeatures.as">file:///E|/www/3DCurtain/practise/output/mx/core/IAssetLayoutFeatures.as</uri>
+		<uri label="UrlHotspotClass_HotspotRedDotImage.as">file:///E|/www/3DCurtain/practise/output/UrlHotspotClass_HotspotRedDotImage.as</uri>
+		<uri label="ZoomLevelTile.as">file:///E|/www/3DCurtain/practise/output/ZoomLevelTile.as</uri>
+		<uri label="ZoomLevel.as">file:///E|/www/3DCurtain/practise/output/ZoomLevel.as</uri>
+		<uri label="IRepeaterClient.as">file:///E|/www/3DCurtain/practise/output/mx/core/IRepeaterClient.as</uri>
+	</recentFiles>
+	<locations editable="false"/>
+</projectDescription>
